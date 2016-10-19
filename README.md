@@ -1,2 +1,2 @@
-# osteopr-fullpage
-Multipage version osteopathie delft
+# osteopr
+Website osteopathie delft
